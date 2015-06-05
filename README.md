@@ -2,6 +2,8 @@
 notatki
 Takie sobie notatki
 
+Programik:
+
 #include<stdio.h>
 main() {
 int i;
